@@ -1,6 +1,6 @@
-# DevOps Kursu — Bölüm 3: VM Setup (Vagrant & VirtualBox)
+# DevOps İçeriği — Bölüm 1: VM Setup (Vagrant & VirtualBox)
 
-Bu repo, DevOps kursunun **VM Setup** bölümünde yapılanların uygulamalı özetidir.
+Bu repo,**VM Setup** bölümünde yapılanların uygulamalı özetidir.
 Tüm komutlar Windows 11 üzerinde Git Bash ile gerçekten çalıştırılmış, çıktılar bu dokümana birebir eklenmiştir.
 
 > **Ortam:** Windows 11 Pro · VirtualBox 7.2.6 · Vagrant 2.4.9 · Git Bash
