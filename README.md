@@ -221,15 +221,7 @@ vagrant destroy 9cb02b4
 
 ---
 
-## 8. Mac M1/M2/M3 Notu
-
-Kursun "VM on MacOS M1 chip" dersi **sadece Apple Silicon Mac** içindir:
-Rosetta + Homebrew ile Vagrant + VMware Fusion + ARM box'ları (`spox/ubuntu-arm` vb.).
-Windows veya Intel Mac kullanıyorsanız bu ders atlanır — VirtualBox + normal (amd64) box'lar yeterlidir.
-
----
-
-## 9. Komut Özeti (Cheat Sheet)
+## 8. Komut Özeti (Cheat Sheet)
 
 | Komut | İşlevi |
 |---|---|
