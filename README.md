@@ -208,8 +208,8 @@ vagrant global-status
 ```text
 id       name    provider   state    directory
 -------------------------------------------------------------------------------
-807d21c  default virtualbox running  C:/Users/dynob/Desktop/vagrant-vms/centos
-9cb02b4  default virtualbox poweroff C:/Users/dynob/Desktop/vagrant-vms/ubuntu
+807d21c  default virtualbox running  C:/Users/<kullanici>/Desktop/vagrant-vms/centos
+9cb02b4  default virtualbox poweroff C:/Users/<kullanici>/Desktop/vagrant-vms/ubuntu
 ```
 
 `id` ile herhangi bir klasörden makine yönetilebilir:
